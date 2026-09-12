@@ -1,0 +1,10 @@
+Metric,Value
+Total Invoices,5543.0
+Normal Invoices,5265.0
+Anomalous Invoices,278.0
+Anomaly Percentage,5.015334656323291
+Low Risk,4819.0
+Medium Risk,581.0
+High Risk,143.0
+Average Anomaly Score,14.450943532383183
+Maximum Anomaly Score,100.0

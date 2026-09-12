@@ -1,0 +1,31 @@
+Feature,Description
+invoice_quantity,Quantity recorded on the invoice.
+invoice_dollars,Dollar value recorded on the invoice.
+Freight,Freight amount associated with the invoice.
+total_item_quantity,Aggregated purchase quantity linked to the PO.
+total_item_dollars,Aggregated purchase dollar value linked to the PO.
+average_purchase_price,Average purchase price for linked records.
+number_of_purchase_lines,Number of purchase transaction lines.
+number_of_brands,Number of distinct brands in linked purchases.
+quantity_difference,Difference between invoice and purchase quantity.
+absolute_quantity_difference,Absolute quantity difference.
+quantity_difference_percentage,Percentage quantity difference.
+dollar_difference,Difference between invoice and purchase dollars.
+absolute_dollar_difference,Absolute dollar difference.
+dollar_difference_percentage,Percentage dollar difference.
+invoice_cost_per_unit,Invoice dollars divided by invoice quantity.
+purchase_cost_per_unit,Purchase dollars divided by purchase quantity.
+freight_percentage,Freight as a percentage of invoice dollars.
+freight_per_unit,Freight cost per invoice unit.
+invoice_plus_freight,Invoice dollars plus freight.
+po_to_invoice_days,Days between purchase order and invoice.
+invoice_year,Calendar year of invoice.
+invoice_month,Calendar month of invoice.
+invoice_quarter,Calendar quarter of invoice.
+invoice_day_of_week,Day of week of invoice.
+vendor_invoice_count,Number of invoices associated with the vendor.
+vendor_average_invoice_value,Average invoice value for the vendor.
+vendor_average_freight,Average freight amount for the vendor.
+vendor_average_freight_percentage,Average freight percentage for the vendor.
+invoice_vs_vendor_average_percentage,Percentage deviation from vendor's average invoice value.
+freight_vs_vendor_average_percentage,Percentage deviation from vendor's average freight.

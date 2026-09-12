@@ -1,0 +1,10 @@
+Metric,Value
+Total Invoices,5543.0
+Low Risk Invoices,2169.0
+Medium Risk Invoices,3109.0
+High Risk Invoices,265.0
+Low Risk Percentage,39.130434782608695
+Medium Risk Percentage,56.088760598953634
+High Risk Percentage,4.78080461843767
+Average Risk Score,35.78572974923326
+Maximum Risk Score,92.23
